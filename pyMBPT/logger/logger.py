@@ -7,6 +7,8 @@ class Logger:
         
         pass
 
-    def setLevel(self, ) -> None:
+    def set_base_level(self, ) -> None:
 
         pass
+
+    # def 
